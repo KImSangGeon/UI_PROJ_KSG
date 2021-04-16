@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/* 공통 분모 */
+section {
+	margin-bottom: 10px;	
+}
+section p{
+	border-left: 3px solid orange;
+}
+#center{
+	width: 450px;
+	margin: 0 auto;
+}
+article{
+	border-bottom: 2px solid #069;
+}
+
+

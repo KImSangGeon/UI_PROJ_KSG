@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body {	
+	margin: 0px auto;
+	padding: 0px;
+	color: #07080A;
+}
+header{
+	text-align:center;
+	
+}
+header img {	
+	padding-right: 10px;	
+}
+
+header h1 {	
+	display: inline-block;
+}
+
+nav {
+	border-bottom: 2px solid #069;
+	border-top: 2px solid #069;
+}
+
+nav ul {
+	text-align: center;
+	list-style-type: none;	
+}
+
+nav ul li {
+	margin: 5px;
+	width: 150px;
+	display: inline-block;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #07080A;
+}
+
+a:hover {
+	color: red;
+}
+footer {
+	border-top: 2px solid #069;
+	text-align: center;
+}

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+article{
+	padding: 10px;	
+	width:570px;
+	margin: 0 AUTO ;
+}
+article #match{
+	border-left: 3px solid orange;	
+}
+article .picture{
+	border-radius:15px;
+	width:630px;
+	height:450px;
+	background: url("../images/arirang.jpg") no-repeat;
+	background-size: cover;
+}
+
+article audio{
+	width:633px;
+}
